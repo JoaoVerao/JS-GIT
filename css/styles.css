@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+nav {
+  margin: -8px;
+}
+
+.title {
+  margin-right: 60%;
+}
+
+.nav-center {
+  padding: auto;
+  background-color: lightgray;
+  border-bottom-style: groove;
+  border-bottom-color: silver;
+}
+
+button {
+  cursor: pointer;
+}
+
+ul {
+  direction: rtl;
+  column-count: auto;
+  column-width: 100px;
+}
+
+li {
+  list-style-type: none;
+}
